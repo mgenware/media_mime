@@ -175,9 +175,14 @@ const _dict = {
   "xwd": "image/x-xwindowdump"
 };
 
-String? lookupMediaMimeType(String extension) {
-  if (extension.startsWith('.')) {
-    extension = extension.substring(1);
+String _extension(String path) {
+  final index = path.lastIndexOf('.');
+  if (index < 0 || index + 1 >= path.length) {
+    return path;
   }
-  return _dict[extension];
+  return path.substring(index + 1).toLowerCase();
+}
+
+String? lookupMediaMimeType(String path) {
+  return _dict[_extension(path)];
 }
