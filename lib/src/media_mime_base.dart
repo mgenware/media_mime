@@ -180,9 +180,10 @@ String _extension(String path) {
   if (index < 0 || index + 1 >= path.length) {
     return path;
   }
-  return path.substring(index + 1).toLowerCase();
+  return path.substring(index + 1);
 }
 
 String? lookupMediaMimeType(String path) {
-  return _dict[_extension(path)];
+  final ext = _extension(path).toLowerCase();
+  return _dict[ext];
 }
