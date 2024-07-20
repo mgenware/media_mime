@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:media_mime/media_mime.dart';
 
 void main() {
