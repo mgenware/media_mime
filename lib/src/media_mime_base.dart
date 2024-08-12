@@ -23,6 +23,7 @@ const _dict = {
   'avif': 'image/avif',
   'avifs': 'image/avif',
   'bmp': 'image/bmp',
+  'braw': 'video/x-blackmagic-braw',
   'btif': 'image/prs.btif',
   'cgm': 'image/cgm',
   'cmx': 'image/x-cmx',

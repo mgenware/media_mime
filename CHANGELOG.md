@@ -1,3 +1,7 @@
+## 1.4.0
+
+- Add Blackmagic RAW format `braw`.
+
 ## 1.3.0
 
 - Add `m2t`, `m2ts` and `mts` video formats.
