@@ -172,6 +172,7 @@ const _dict = {
   'tiff': 'image/tiff',
   'ts': 'video/mp2t',
   'viv': 'video/vnd.vivo',
+  'vob': 'video/dvd',
   'wav': 'audio/vnd.wav',
   'wax': 'audio/x-ms-wax',
   'wbmp': 'image/vnd.wap.wbmp',
