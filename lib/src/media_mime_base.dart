@@ -25,6 +25,7 @@ const _dict = {
   'bmp': 'image/bmp',
   'braw': 'video/x-blackmagic-braw',
   'btif': 'image/prs.btif',
+  'caf': 'audio/x-caf',
   'cgm': 'image/cgm',
   'cmx': 'image/x-cmx',
   'cr2': 'image/x-canon-cr2',
