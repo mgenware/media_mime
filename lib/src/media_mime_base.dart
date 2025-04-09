@@ -163,7 +163,7 @@ const _dict = {
   'rw2': 'image/x-panasonic-raw',
   'rwl': 'image/x-panasonic-raw',
   'snd': 'audio/basic',
-  'spx': 'audio/ogg',
+  'spx': 'audio/x-speex',
   'sr2': 'image/x-sony-sr2',
   'srf': 'image/x-sony-srf',
   'srw': 'image/x-samsung-srw',
