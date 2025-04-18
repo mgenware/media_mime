@@ -45,6 +45,7 @@ const _dict = {
   'emf': 'image/emf',
   'eol': 'audio/vnd.digital-winds',
   'erf': 'image/x-epson-erf',
+  'exr': 'image/x-exr',
   'f4v': 'video/x-f4v',
   'fbs': 'image/vnd.fastbidsheet',
   'fh': 'image/x-freehand',
