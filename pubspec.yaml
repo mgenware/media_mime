@@ -1,15 +1,15 @@
 name: media_mime
 description: A dart package to look up mime types for media files.
-version: 1.4.3
+version: 1.4.4
 repository: https://github.com/mgenware/media_mime
 
 environment:
   sdk: ^3.4.3
 
 # Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
+# dependencies:
+# path: ^1.8.0
 
 dev_dependencies:
-  mgenware_dart_lints: ^6.5.2
+  mgenware_dart_lints: ^7.0.0
   test: ^1.24.0
