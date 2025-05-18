@@ -192,6 +192,7 @@ const _dict = {
   'svg': 'image/svg+xml',
   'svgz': 'image/svg+xml',
   'tga': 'image/x-tga',
+  'thd': 'audio/vnd.dolby.mlp',
   'tif': 'image/tiff',
   'tiff': 'image/tiff',
   'ts': 'video/mp2t',
