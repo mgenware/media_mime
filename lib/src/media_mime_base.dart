@@ -44,6 +44,7 @@ const _dict = {
   'dts': 'audio/vnd.dts',
   'dtshd': 'audio/vnd.dts.hd',
   'dwg': 'image/vnd.dwg',
+  'dv': 'video/x-dv',
   'dxf': 'image/vnd.dxf',
   'ecelp4800': 'audio/vnd.nuera.ecelp4800',
   'ecelp7470': 'audio/vnd.nuera.ecelp7470',
