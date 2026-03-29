@@ -1,3 +1,7 @@
+## 1.5.0
+
+- Add `apv` video format.
+
 ## 1.4.0
 
 - Add Blackmagic RAW format `braw`.

@@ -14,6 +14,7 @@ const _dict = {
   'aif': 'audio/aiff',
   'aiff': 'audio/aiff',
   'apng': 'image/apng',
+  'apv': 'video/apv',
   'ari': 'image/x-arriflex-ari',
   'arw': 'image/x-sony-arw',
   'asf': 'video/x-ms-asf',
