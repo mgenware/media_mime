@@ -9,6 +9,7 @@ const _dict = {
   '3fr': 'image/x-hasselblad-3fr',
   'aac': 'audio/aac',
   'aacp': 'audio/aacp',
+  'ac3': 'audio/ac3',
   'adp': 'audio/adpcm',
   'aff': 'audio/aiff',
   'aif': 'audio/aiff',
