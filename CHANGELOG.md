@@ -1,3 +1,7 @@
+## 1.5.2
+
+- Add `iamf` audio format.
+
 ## 1.5.1
 
 - Add `ac3` audio format.

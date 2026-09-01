@@ -82,6 +82,7 @@ const _dict = {
   'heics': 'image/heic-sequence',
   'heif': 'image/heic',
   'heifs': 'image/heif-sequence',
+  'iamf': 'audio/iamf',
   'icns': 'image/x-icns',
   'ico': 'image/x-icon',
   'ief': 'image/ief',
