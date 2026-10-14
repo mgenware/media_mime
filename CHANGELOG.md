@@ -1,3 +1,7 @@
+## 1.6.0
+
+- Add `mxf` video format.
+
 ## 1.5.2
 
 - Add `iamf` audio format.

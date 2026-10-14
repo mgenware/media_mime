@@ -147,6 +147,7 @@ const _dict = {
   'mpga': 'audio/mpeg',
   'mrw': 'image/x-minolta-mrw',
   'mts': 'video/mp2t',
+  'mxf': 'application/mxf',
   'mxu': 'video/vnd.mpegurl',
   'nef': 'image/x-nikon-nef',
   'npx': 'image/vnd.net-fpx',
